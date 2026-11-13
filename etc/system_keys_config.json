@@ -2,6 +2,10 @@
     "SystemKeys": [
         {
             "preKeys": [ 2076 ],
+            "finalKey": 2025
+        },
+        {
+            "preKeys": [ 2076 ],
             "finalKey": -1
         },
         {
